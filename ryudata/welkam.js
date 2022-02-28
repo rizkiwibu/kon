@@ -7,7 +7,7 @@ exports.welkam = () => {
 📛 Nama : 
 🔞 Umur :
 🏙️ Askot :
-
+Join grup :https://chat.whatsapp.com/KcMIbBUddqjIoNmGCrRU5m
 Semoga Kamu Senang Berada Disini
 Serta Jangan Lupa Untuk Membaca
 Dan Mematuhi Rules Yang Ada
